@@ -10,6 +10,11 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/Bryanblount07/Configuring-Active-Directory)
   - [Network Security Groups and Inspecting Network Protocols](https://github.com/Bryanblount07/Network-Security-Groups-and-Inspecting-Network-Protocols-/blob/main/README.md)
 
+<h3>🧑‍💻 Cybersecurity Projects:</h3>
+
+- <b>Azure/Cloud Cybersecurity Projects</b>
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/Bryanblount07/Cloud-SOC)
+
 <h2>🤳Connect with me:</h2> 
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
